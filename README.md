@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Scalable & Secure Systems</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kush2343/KUSH-MEVADA/refs/heads/main/src/Images/profile-pic.png?token=GHSAT0AAAAAADUNGC5AE5ARBFFM3KIKW62A2L4Z74A" alt="Kush Mevada" width="170" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/Kush2343" alt="Kush Mevada" width="170" style="border-radius:50%; border:2px solid white" />
 </p>
 
 <p align="center">
