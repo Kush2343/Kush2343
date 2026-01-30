@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Backend Developer dedicated to designing and implementing robust server-side applications,
+  As, Backend Developer dedicated to designing and implementing robust server-side applications,
   ensuring efficient data processing, secure APIs, and seamless integration with frontend systems
   for reliable and scalable web solutions.
 </p>
