@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kush Mevada</h1>
+<h3 align="center">Backend Developer | Scalable & Secure Systems</h3>
 
-<!--
-**Kush2343/Kush2343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/USERNAME" alt="Kush Mevada" width="170" style="border-radius:50%;" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Backend Developer dedicated to designing and implementing robust server-side applications,
+  ensuring efficient data processing, secure APIs, and seamless integration with frontend systems
+  for reliable and scalable web solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔧 Backend Developer focused on **performance, scalability, and security**
+- 🧠 Strong interest in **system design & clean architecture**
+- 🔐 Experience building **secure RESTful APIs**
+- ⚡ Love optimizing databases and server-side logic
+- 🤝 Open to collaboration and learning new technologies
+
+---
+
+## 🛠️ Languages & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 💡 What I Do Best
+
+- Backend architecture & API development  
+- Database design and query optimization  
+- Secure authentication & authorization  
+- Integration between frontend & backend  
+- Writing clean, maintainable, and scalable code  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Open to backend roles & freelance work
+- 📫 Always interested in learning & collaboration
+- 🌍 https://kush-mevada.vercel.app
+
+⭐ *Thanks for visiting my profile!*
